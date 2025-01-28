@@ -24,12 +24,14 @@
     border-radius: 20%;
     padding: 5px;
     color: #f8fcff;
+    border-color: #14aaf5;
   }
   #trasparente{
     background-color: #f8fcff;
     border-radius: 20%;
     padding: 5px;
     color: #d3d8dc;
+    border-color: #f8fcff;  
   }
 
   #box-grande {
@@ -40,4 +42,5 @@
     margin-top: 2px;
     margin-left: 168px;
     margin-right: 168px;
+    text-align: left;
   }
